@@ -1,5 +1,4 @@
 {
-    "homepage": "https://youjin0411.github.io/StudentCouncil",
     "name": "studentcouncil",
     "version": "0.1.0",
     "private": true,
@@ -44,5 +43,6 @@
     },
     "devDependencies": {
         "gh-pages": "^5.0.0"
-    }
+    },
+    "homepage": "https://youjin0411.github.io/StudentCouncil/"
 }
