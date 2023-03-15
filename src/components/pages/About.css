@@ -7,7 +7,7 @@ section {
 }
 
 #container {
-    /* 스크롤 요소의 스냅 기능을 설정함.  */
+    /* 스크롤 요소의 스냅 기능을 설정함. 스크롤 속성 추가  */
     scroll-snap-type: y mandatory;
     overflow-y: scroll;
     height: 100vh;
